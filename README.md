@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INF-8239-U01
 
 ## Configuración del entorno de desarrollo
@@ -74,3 +75,7 @@ git commit -m "chore: create INF-8239 reproducible environment"
 ### Estado final
 
 El proyecto fue preparado con un entorno virtual, una estructura organizada de carpetas y una prueba inicial de funcionamiento.
+=======
+# INF8239_U01
+Laboratorios de Ciencia de Datos II
+>>>>>>> d59ba77f2f18f7d5093dd20136c41fef23ce60d2
